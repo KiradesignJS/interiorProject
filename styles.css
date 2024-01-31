@@ -5,6 +5,8 @@ h1 {
 }
 
 .footer {
+    display: block;
     padding: 10px;
+    color: brown;
     text-decoration: underline;
 }
